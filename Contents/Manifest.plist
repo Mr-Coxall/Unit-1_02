@@ -9,7 +9,7 @@
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>Name</key>
-	<string>Learn to Code 3</string>
+	<string>Unit #1-02</string>
 	<key>Description</key>
 	<string>Dynamic Composer</string>
 	<key>ImageReference</key>
@@ -21,10 +21,6 @@
 	<key>Chapters</key>
 	<array>
 		<string>Document1.playgroundchapter</string>
-		<string>Document2.playgroundchapter</string>
-		<string>Document3.playgroundchapter</string>
-		<string>Document4.playgroundchapter</string>
-		<string>Document5.playgroundchapter</string>
 	</array>
 </dict>
 </plist>
